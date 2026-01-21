@@ -1,0 +1,5 @@
+id_cita,paciente,fecha_cita,especialidad,estado,telefono,costo
+1,juan perez,2025-01-10,medicina general,CONFIRMADA,,150
+2,MARIA LOPEZ,2025/01/15,odontologia,CANCELADA,5551234,200
+3,,fecha_mala,pediatria,CONFIRMADA,5559999,-50
+4,carlos ruiz,2025-01-20,MEDICINA GENERAL,CONFIRMADA,,300
